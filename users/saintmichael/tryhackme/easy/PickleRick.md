@@ -64,7 +64,7 @@ ED25519  256  86:cd:3e:5c:e2:df:f9:89:a4:a8:93:9f:d8:85:f3:6b
 
 Accessing the web server reveals a themed landing page requesting help locating secret ingredients for a potion.
 
-![1d23f39ceeebbbdd8f99c1bfe39a9ddf.png](:/5beac8ad5a194a7a8091c3f871ce185e)
+![website](/users/saintmichael/tryhackme/img/picklerick1.png)
 
 ### Source Code Analysis
 
@@ -197,7 +197,7 @@ Wubbalubbadubdub
 
 Nothing really useful here
 
-![8dee37c0d967e5c02f38ae3916afd145.png](:/6c02acc800aa4f4fb311a596a4adcf31)
+![loginportal](/users/saintmichael/tryhackme/img/picklerick2.png)
 
 Looking back to our previous notes we already have a username and a possible password?
 might as well give it a try
@@ -272,7 +272,7 @@ lmao sick. so that was a waste of time.
 
 Let’s take a look at the command console:
 
-![9ad4ef7f9fbc5051ce11c3218bef5ca1.png](:/64574b72ef38454bbd987254fbcecf0f)
+![codeexecution](/users/saintmichael/tryhackme/img/picklerick3.png)
 
 From the console, we can successfully run `ls`, but we do **not** have permission to use `cat` to read files directly.
 
