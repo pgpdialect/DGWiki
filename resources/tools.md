@@ -7,6 +7,14 @@ All tools listed are commonly used in **authorized penetration tests, red team e
 
 ---
 
+## Digital Gangster Approved
+
+- [CloudRip](https://github.com/moscovium-mc/CloudRip) - A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains.
+- [BreachPeek](https://github.com/moscovium-mc/BreachPeek) - A super simple, easy to use, locally hosted breach searcher with over 1 Billion records.
+- [ReconMonster](https://recon.monster/) - Recon Monster is a website with many built in tools that are helpful to investigators and OSINT researchers.
+
+---
+
 ## Reconnaissance & OSINT
 
 - [Amass](https://github.com/owasp-amass/amass) – Attack surface mapping and asset discovery  
